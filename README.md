@@ -1,14 +1,14 @@
-# MIDI电子琴
+# MIDI Electronic Piano
 
-监听键盘输入，转换为音频信号，达到模拟电子琴的功能。
+Listen to keyboard input and convert it into audio signals to achieve the functionality of simulating an electronic piano.
 
-其主要功能有选择音色、音调、音量，以达到不同的演奏要求。
-
+Its main features include selecting timbre, pitch, and volume to meet different performance requirements.
 *****
+### Environment Configuration
 
-## 环境配置
+* This project uses Visual Studio 2022 with the *Desktop development with C++* workload.
+* The project is configured as *Debug* + *x64*, using the default compiler and default build steps in Visual Studio. Additionally, the *C4996* warning has been disabled.
 
-* 本项目使用带有 *使用C++的桌面开发* 负载的 Visual Studio 2022 。
-- 项目配置为*Debug*+*x64*，使用VS默认编译器与默认编译步骤，并禁用了*C4996*警告。
+
 
 
